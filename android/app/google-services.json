@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639078959004",
+    "project_id": "project-new-b796c",
+    "storage_bucket": "project-new-b796c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639078959004:android:0455e4083b32d29eabea59",
+        "android_client_info": {
+          "package_name": "com.example.hifzan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvB6WJPFl5xEFK8YYQkhLp61WORDJ_Rs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
